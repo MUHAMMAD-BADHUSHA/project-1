@@ -1,0 +1,9 @@
+.hover-blue:hover {
+    background-color: #8d457d; /* Primary color */
+    color: white; 
+    border-radius: 5%;
+    transition-duration: 480ms;
+}
+.div{
+    border-radius: 10%;
+}
